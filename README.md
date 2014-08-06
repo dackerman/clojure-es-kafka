@@ -1,6 +1,6 @@
-# clojure-kafka
+# clojure-es-kafka
 
-FIXME: description
+Example code running an Event Sourcing implementation with a Kafka queue integrated.
 
 ## Installation
 
