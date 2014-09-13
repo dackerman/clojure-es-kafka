@@ -1,3 +1,4 @@
+[ ![Codeship Status for dackerman/clojure-es-kafka](https://codeship.io/projects/5d262c50-1d84-0132-d52b-1e0ac5ac49fe/status)](https://codeship.io/projects/35412)
 # clojure-es-kafka
 
 Example code running an Event Sourcing implementation with a Kafka queue integrated.
